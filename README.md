@@ -13,7 +13,7 @@ This package has a respresentation of:
 ## Install
 
 ```
-go get 
+go get github.com/fioletxyz/0x-go.git
 ```
 
 ## Getting Started

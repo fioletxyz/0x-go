@@ -1,6 +1,6 @@
 # zerox
 
-<img src="https://github.com/fioletxyz/0x-go/assets/81973532/2c28f92e-d4b3-4781-88fd-5c618caf149d" align="right" alt="W3 Gopher" width="158" height="224">
+<img src="https://github.com/fioletxyz/0x-go/assets/81973532/7a672753-d138-4ef3-8865-4fa99f3b81eb" align="right" alt="W3 Gopher" width="158" height="224">
 
 Package `zerox` is a wrapped 0x Swap API.
 
